@@ -1,3 +1,5 @@
+# Countdown Timer App for Android
+
 This is a small Android app built with Kotlin and Jetpack Compose. It includes a set of simple countdown timers such as a Pomodoro timer, short breaks, long breaks, and a custom timer where you can enter your own duration.
 
 The goal of the project was to practise Compose UI, navigation, and state management using a ViewModel. It’s a lightweight app, but it covers essential concepts like:
